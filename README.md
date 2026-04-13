@@ -15,10 +15,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Insert Project Name or link]**
-- 🌱 I’m currently exploring **[Insert a new tech or framework you are learning]**
+- 🔭 I’m currently working on **Ivoyage**
+- 🌱 I’m currently exploring **SpringBoot**
 - 💬 Ask me about **PHP, Laravel, NestJS, Java, and React Native**
-- 📫 How to reach me: **[Your Email]** | **[Your LinkedIn URL]**
+- 📫 How to reach me: **info@lucsamuel.dev**
 
 ---
 
