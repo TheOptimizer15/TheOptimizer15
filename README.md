@@ -1,92 +1,51 @@
-<div align="center">
+<img src="https://www.google.com/search?q=https://images.unsplash.com/photo-1555099962-4199c345e5dd%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1200%26q%3D80" alt="Profile Banner" width="100%" height="250" style="object-fit: cover;" />
 
-Hi there, I'm TheOptimizer15 👋
+TheOptimizer15
 
-Freelance Full Stack Developer | API Architecture Specialist | SaaS Expert
-
-Designing and building scalable architectures, payment systems, and automation tools.
-
-</div>
-
-👨‍💻 About Me
-
-I am an experienced Full Stack Developer with a proven track record of designing and building 35+ production-grade applications across web, mobile, and backend systems. I specialize in taking complex concepts from zero to production while maintaining code quality, scalability, and security standards.
-
-🚀 Currently focusing on: Advanced TypeScript patterns, NestJS microservices, and Cloud-native development.
-
-💡 Domain Expertise: Payment systems integration (Wave, GOTV), Real-time automation, and SaaS architectures.
-
-🤝 Looking to collaborate on: Innovative SaaS projects, Fintech solutions, and open-source backend tools.
-
-💬 Ask me about: TypeScript, API Design, Puppeteer automation, and transitioning from monolithic to microservices.
-
-💼 Freelance Services
-
-As an independent consultant and developer, I partner with businesses and startups to deliver robust technical solutions:
-
-⚙️ Custom API & Backend Development: Designing secure, scalable REST and GraphQL APIs using Node.js (NestJS/Express) and Laravel.
-
-💳 Payment & Fintech Integrations: Expert implementation of payment gateways and transaction automation (specialized in Wave Business Portal).
-
-🤖 Browser Automation & Scraping: Building highly reliable, data-accurate automated workflows using Puppeteer.
-
-📱 Full-Stack MVP Development: Rapidly prototyping and building complete web and mobile apps (React, React Native, Svelte) to get your idea to market quickly.
-
-🛠️ Technology Stack
-
-Languages
-
-Backend & APIs
-
-Frontend & Mobile
-
-Database, DevOps & Tools
+Welcome to my GitHub corner! I'm an experienced Full Stack Developer passionate about building robust, scalable architectures and uncovering innovative solutions. Whether I'm designing advanced payment system integrations, transitioning monolithic applications to microservices, or building full-stack MVPs from scratch, I love pushing the boundaries of technology.
 
 🚀 Featured Projects
 
-Project
+Explore some of my key projects:
 
-Description
+Wave Sync – A mobile payment automation platform built to securely process transactions and handle GraphQL packet interceptions.
 
-Tech Stack
+NexStream – A multi-platform video streaming service equipped with a real-time dashboard and scalable backend delivery.
 
-Wave Sync
+Poto-map API – A microservices-based backend for a location-based social marketplace, designed to handle complex geo-spatial queries.
 
-Mobile Payment Automation Platform built to securely process transactions and handle GraphQL packet interceptions.
+Qbox – A complete e-commerce and inventory management platform enabling SMEs to sell online seamlessly.
 
-React Native React NestJS
+Postufly – A mobile application automating the job search and application submission process, reducing search time by 80%.
 
-NexStream
+💼 Freelance Services & Expertise
 
-Multi-platform video streaming service with real-time dashboard and scalable backend delivery.
+Custom API & Backend Development: Expert at designing secure, scalable REST and GraphQL APIs using Node.js (NestJS/Express) and Laravel.
 
-PHP React React Native
+Payment & Fintech Integrations: Skilled in the implementation of payment gateways and transaction automation, with a deep specialization in the Wave Business Portal.
 
-Poto-map API
+Browser Automation & Scraping: Proficient in building highly reliable, data-accurate automated workflows using Puppeteer.
 
-Microservices-based backend for a location-based social marketplace handling complex geo-spatial queries.
+Full-Stack MVP Development: Experienced in rapidly prototyping and building complete web and mobile applications (React, React Native, Svelte) to get ideas to market quickly.
 
-NestJS PostgreSQL Docker
+🛠️ Tech Stack & Tools
 
-Qbox
+<a href="https://www.google.com/search?q=https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dts,js,php,java,python,go,nestjs,nodejs,express,laravel,graphql,react,svelte,tailwind,postgres,mongodb,docker,aws%26theme%3Ddark%26perline%3D9" alt="Tech Stack" />
+</a>
 
-Complete e-commerce and inventory management platform enabling SMEs to sell online seamlessly.
+📊 GitHub Stats
 
-Laravel Java
+<a href="https://www.google.com/search?q=https://github.com/TheOptimizer15">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTheOptimizer15%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" width="49%" alt="GitHub Stats" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/TheOptimizer15">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTheOptimizer15%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" width="49%" alt="Top Languages" />
+</a>
 
-Postufly
 
-Mobile application automating job search and application submission, reducing search time by 80%.
 
-React Native NestJS
 
-📊 GitHub Analytics
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTheOptimizer15%26show_icons%3Dtrue%26theme%3Dradium%26hide_border%3Dtrue" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTheOptimizer15%26layout%3Dcompact%26theme%3Dradium%26hide_border%3Dtrue" width="48%" />
-</div>
 
-<div align="center">
-<i>Open to new freelance opportunities and consulting roles. <a href="mailto:your_email@example.com">Let's build something great together!</a></i>
-</div>
+<i>Open to new freelance opportunities and consulting roles. <a href="mailto:ndris219@gmail.com">Let's build something great together!</a></i>
