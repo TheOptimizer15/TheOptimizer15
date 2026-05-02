@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="banner.png" alt="TheOptimizer15 — Full Stack Engineer" width="100%" style="border-radius:16px;" />
+<img src="banner.png" alt="NLSdotDEV — Full Stack Engineer" width="100%" />
 
 </div>
 
 <!-- Animated typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Samuel+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Fintech+Builder;Streaming+%7C+Payments+%7C+APIs;Building+systems+that+don't+break+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Samuel+%F0%9F%91%8B;Full+Stack+Engineer+%7C+API+Architect;IPTV+%7C+Streaming+%7C+Payments;Building+systems+that+don't+break+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,25 +29,30 @@
 ### 🧠 About Me
 
 ```typescript
-const samuel = {
-  alias:     "TheOptimizer15",
+const NLSdotDEV = {
+  name:      "Samuel",
   role:      "Full Stack Engineer",
   location:  "🌍 West Africa",
-  passions:  ["Fintech", "Streaming", "API Design"],
+
+  experience: {
+    worked_at: "JEKO — a Fintech company",
+    domains:   ["API Design", "IPTV / Streaming", "Payments"],
+  },
 
   currently: {
-    building:  "NexStream — Multi-platform IPTV platform",
-    integrating: "Wave & Orange Money payment flows",
-    studying:  "Distributed systems & microservices",
+    building:    "NexStream — STB MAG → Xtream & M3U API",
+    architecting: "Qbox — Inventory tool that auto-publishes storefronts",
+    integrating:  "OAuth2, JWT, Wave Payment Gateway",
   },
 
   philosophy: "Ship fast. Observe everything. Break nothing.",
 };
 ```
 
-- 🔭 I build systems that **handle money, media & scale**
-- ⚡ Deep expertise in **payment automation** (Wave, Orange Money, JEKO)
-- 📡 Architecting **IPTV/streaming backends** with real-time dashboards
+- 🔭 I build **APIs, streaming systems and developer tools**
+- 💳 Worked at **JEKO** — a Fintech — integrating payment flows and automation
+- 📡 Turned **IPTV STB MAG** boxes into **Xtream-compatible & M3U** APIs
+- 🔐 Experienced with **OAuth2 & JWT** authentication architectures
 - 🛡️ Obsessed with **observability** — structured logs, Telegram alerts, Sentry
 - 🤝 Open to **freelance & consulting** engagements
 
@@ -60,13 +65,13 @@ const samuel = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ NexStream</h3>
+      <h3 align="center">📡 NexStream</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </div>
-      <p align="center">Multi-platform IPTV streaming service with real-time STB MAC validation, live category sync, queue-based job processing, and full Telegram observability.</p>
+      <p align="center">An API that bridges <strong>IPTV STB MAG</strong> boxes with the modern streaming world — converting MAG portal data into <strong>Xtream Codes</strong> and <strong>M3U</strong> playlists with live category sync and real-time STB MAC lifecycle management.</p>
     </td>
     <td width="50%">
       <h3 align="center">💳 Wave Sync</h3>
@@ -75,37 +80,38 @@ const samuel = {
         <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
       </div>
-      <p align="center">Mobile payment automation platform. Intercepts GraphQL packets from the Wave Business Portal, automates transaction processing, and handles merchant config failures gracefully.</p>
+      <p align="center">Transforms your personal <strong>mobile Wave account</strong> into a fully functional <strong>Payment Gateway</strong>. Intercepts Wave Business Portal GraphQL packets to automate and expose payment processing as a programmable API.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🗺️ Poto-Map API</h3>
+      <h3 align="center">🗺️ Poto-Map</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </div>
-      <p align="center">Microservices-based backend for a location-aware social marketplace. Handles complex geospatial queries, service-repository pattern, and typed PHP-style domain modeling in TS.</p>
+      <p align="center">A location-based discovery platform that lets users <strong>add, find and rate local businesses</strong>. Built entirely with <strong>NestJS</strong>, featuring geospatial queries, service-repository architecture, and structured domain modeling.</p>
     </td>
     <td width="50%">
       <h3 align="center">🛒 Qbox</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JEKO-6C47FF?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
       </div>
-      <p align="center">Full e-commerce & inventory platform for SMEs. Integrates JEKO Direct Provider Checkout for Wave & Orange Money with a custom-branded mobile payment flow.</p>
+      <p align="center">An <strong>inventory management tool</strong> with a twist — when you create a shop inside Qbox, it <strong>automatically generates and publishes a live storefront website</strong> with your products, zero extra setup required.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <h3 align="center">📱 Postufly</h3>
       <div align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Automation-00d9ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </div>
-      <p align="center">Mobile app automating the job search and application submission process — reducing search time by 80% through intelligent filtering and workflow automation.</p>
+      <p align="center">A mobile app built with <strong>React Native + NestJS</strong> that automates the job search and application submission process — reducing manual search time by <strong>80%</strong> through intelligent filtering and workflow automation.</p>
     </td>
   </tr>
 </table>
@@ -118,24 +124,24 @@ const samuel = {
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Backends & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+### Auth
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 ### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -143,7 +149,6 @@ const samuel = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Observability & Tools
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
@@ -178,12 +183,14 @@ const samuel = {
 
 | 🏗️ Domain | 💼 What I Build |
 |:---|:---|
-| **Payment & Fintech** | Wave Business automations, GraphQL interception, Orange Money & JEKO integrations |
-| **Streaming & IPTV** | NexStream platform, STB MAC lifecycle, live category sync, real-time dashboards |
+| **IPTV / Streaming** | NexStream — STB MAG → Xtream Codes & M3U, MAC lifecycle, live sync |
+| **Payment Tools** | Wave account → Payment Gateway, JEKO integrations (worked at JEKO) |
 | **API Architecture** | Laravel & NestJS REST/GraphQL APIs, service-repository patterns, domain modeling |
+| **Auth & Security** | OAuth2 flows, JWT strategies, token refresh, protected routes |
+| **Inventory & Commerce** | Qbox — inventory management with auto-generated storefronts |
+| **Mobile & Web** | React Native apps, Next.js frontends, full-stack delivery |
 | **Observability** | Structured logs, Telegram alerting, Sentry error tracking, queue monitoring |
 | **Browser Automation** | Puppeteer workflows, reliable scrapers, multi-step form automation |
-| **MVP Development** | Rapid prototyping, full-stack delivery, React/React Native/Svelte frontends |
 
 </div>
 
